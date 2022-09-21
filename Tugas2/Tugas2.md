@@ -31,7 +31,7 @@ macam - macam operasi penngolahan citra:
 
 <p align = "center">Hasil Ekspolasi gambar 32x32 :</p><br>
 
-<p align = "center"><img src="foto/kucing_garong.jpeg"></p><br>
+<p align = "center"><img width='300'; src="foto/kucing_garong.jpeg"></p><br>
 
 <p align = "center">gambar diatas merupakan gambar yang akan saya gunakan untuk tugas kali ini</p><br>
 
@@ -69,5 +69,5 @@ macam - macam operasi penngolahan citra:
 
 Penjelasasan dari beberapa fungsi yang telah saya pahami adalah sebagai berikut:
 1. imread(image read) dapat digunakan ketika kita ingin memasukan foto ke dalam software octave maka kita bisa menggunakan fungsi ini.<br>![...](foto/imread.PNG)
-2. imshow(image show) dapat digunakan ketika kita ingin menampilkan gambar pada software Octave<br>![...](foto/imshow.PNG)
+2. imshow(image show) dapat digunakan ketika kita ingin menampilkan gambar pada software Octave<br>![...](foto/inshow.PNG)
 3. imhist(image histogram) dapat digunakan ketika kita ingin menmapilkan histogram dari gambar kita pada Octave<br>![...](foto/imhist.PNG)
