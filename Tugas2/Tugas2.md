@@ -18,7 +18,7 @@ macam - macam operasi penngolahan citra:
 ### Citra RGB
 <p align = "justify">Red (Merah), Green (Hijau) dan Blue (Biru) merupakan warna dasar yang dapat diterima oleh mata manusia. Setiap piksel pada citra warna mewakili warna yang merupakan kombinasi dari ketiga warna dasar RGB. Setiap titik pada citra warna membutuhkan data sebesar 3 byte. Setiap warna dasar memiliki intensitas tersendiri dengan nilai minimum nol (0) dan nilai maksimum 255 (8 bit). RGB didasarkan pada teori bahwa mata manusia peka terhadap panjang gelombang 630nm (merah), 530 nm (hijau), dan 450 nm (biru).</p>
 
-rgb
+<p align = "center"><img src="foto/rgb.PNG"></p><br>
 
 <p align = "justify">Pada gambar di atasdapat diambil beberapa kesimpulan yaitu: </p>
 1. RGB terdiri dari tiga warna utama, yaitu merah, hijau, dan biru. 
@@ -29,47 +29,45 @@ rgb
 
 <p align = "justify">Tugas2 kali ini adalah diminta untuk mengeksplorasi gambar berukuran 32x32 dengan menggunakan format PNG, JPG, atau JPEG yang kemudian gambar tersebut akan di eksplorasi menggunakan software Octave dan harus menerapkan fungsi imread, imhist dan imshow.</p>
 
-<p align = "center">Hasil Ekspolasi gambar 32x32 :<br>
+<p align = "center">Hasil Ekspolasi gambar 32x32 :</p><br>
 
-<img src="foto/kucing_garong.jpeg"><br>
+<p align = "center"><img src="foto/kucing_garong.jpeg"></p><br>
 
-gambar diatas merupakan gambar yang akan saya gunakan untuk tugas kali ini<br>
+<p align = "center">gambar diatas merupakan gambar yang akan saya gunakan untuk tugas kali ini</p><br>
 
-<img src="foto/1.png"><br>    
+<p align = "center"><img src="foto/1.PNG"></p><br>    
 
-Gambar diatas merupakan kode yang saya gunakan untuk menampilkan gambar dan histogram dari citra asli gambar tersebut.<br>
+<p align = "center">Gambar diatas merupakan kode yang saya gunakan untuk menampilkan gambar dan histogram dari citra asli gambar tersebut.</p><br>
 
-<img src="foto/2.png"><br>
+<p align = "center"><img src="foto/2.PNG"></p><br>
 
-Gambar di atas merupakan hasil dari menampilkan Citra asli dan Histogramnya<br>
+<p align = "center">Gambar di atas merupakan hasil dari menampilkan Citra asli dan Histogramnya</p><br>
 
-<img src="foto/3.png"><br>
+<p align = "center"><img src="foto/3.PNG"></p><br>
 
-Gambar diatas merupakan kode yang saya gunakan untuk menampilkan gambar dan histogram dari citra Red gambar tersebut.<br>
+<p align = "center">Gambar diatas merupakan kode yang saya gunakan untuk menampilkan gambar dan histogram dari citra Red gambar tersebut.</p><br>
 
-<img src="foto/4.png"><br>
+<p align = "center"><img src="foto/4.PNG"></p><br>
 
-Gambar di atas merupakan hasil dari menampilkan Citra Red dan Histogramnya<br>
+<p align = "center">Gambar di atas merupakan hasil dari menampilkan Citra Red dan Histogramnya</p><br>
 
-<img src="foto/5.png"><br>
+<p align = "center"><img src="foto/5.PNG"></p><br>
 
-Gambar diatas merupakan kode yang saya gunakan untuk menampilkan gambar dan histogram dari citra Green gambar tersebut.<br>
+<p align = "center">Gambar diatas merupakan kode yang saya gunakan untuk menampilkan gambar dan histogram dari citra Green gambar tersebut.</p><br>
 
-<img src="foto/6.png"><br>
+<p align = "center"><img src="foto/6.PNG"></p><br>
 
-Gambar di atas merupakan hasil dari menampilkan Citra Green dan Histogramnya<br>
+<p align = "center">Gambar di atas merupakan hasil dari menampilkan Citra Green dan Histogramnya</p><br>
 
-<img src="foto/7.png"><br>
+<p align = "center"><img src="foto/7.PNG"></p><br>
 
-Gambar diatas merupakan kode yang saya gunakan untuk menampilkan gambar dan histogram dari citra Blue gambar tersebut.<br>
+<p align = "center">Gambar diatas merupakan kode yang saya gunakan untuk menampilkan gambar dan histogram dari citra Blue gambar tersebut.</p><br>
 
-<img src="foto/8.png"><br>
+<p align = "center"><img src="foto/8.PNG"></p><br>
 
-Gambar di atas merupakan hasil dari menampilkan Citra Blue dan Histogramnya</p><br>
+<p align = "center">Gambar di atas merupakan hasil dari menampilkan Citra Blue dan Histogramnya</p><br>
 
 Penjelasasan dari beberapa fungsi yang telah saya pahami adalah sebagai berikut:
-1. imread(image read) dapat digunakan ketika kita ingin memasukan foto ke dalam software octave maka kita bisa menggunakan fungsi ini.
-2. imshow(image show) dapat digunakan ketika kita ingin menampilkan gambar pada software Octave
-3. imhist(image histogram) dapat digunakan ketika kita ingin menmapilkan histogram dari gambar kita pada Octave
-
-<img src=" "><br>
+1. imread(image read) dapat digunakan ketika kita ingin memasukan foto ke dalam software octave maka kita bisa menggunakan fungsi ini.<br>![...](foto/imread.PNG)
+2. imshow(image show) dapat digunakan ketika kita ingin menampilkan gambar pada software Octave<br>![...](foto/imshow.PNG)
+3. imhist(image histogram) dapat digunakan ketika kita ingin menmapilkan histogram dari gambar kita pada Octave<br>![...](foto/imhist.PNG)
