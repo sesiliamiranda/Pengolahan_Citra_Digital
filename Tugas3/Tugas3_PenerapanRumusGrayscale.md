@@ -1,4 +1,4 @@
-## Tugas 2 Pemerosesan Citra Digital
+## Tugas 3 Pemerosesan Citra Digital
 Nama   : Sesilia Miranda<br>
 Nim    : 2110131220010
 
