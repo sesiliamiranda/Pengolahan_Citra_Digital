@@ -13,7 +13,7 @@ Nim    : 2110131220010
 
 <P align="justify">Menyembunyikan sebuah pesan dengan steganografi akan mengurangi kecurigaan dan peluang terdeteksinya keberadaan pesan oleh pihak ketiga. Media yang digunakan sebagai media pembawa (carrier file) dapat berupa teks, gambar, audio dan video. Salah satu carrier file dalam steganografi adalah gambar/citra digital, merupakan media yang paling sering digunakan karena sering dipertukarkan dalam dunia internet antara lain, JPEG, PNG, GIF dan BMP.</p>
 
-<p align = "center"><img width='300'; src="1.PNG"><br><b>Properti Steganografi</b></p><br>
+<p align = "center"><img width='300'; src="foto/1.PNG"><br><b>Properti Steganografi</b></p><br>
 
 <P align="justify">Dalam praktiknya, agar data menjadi lebih aman, data diacak terlebih dahulu menggunakan kriptografi, kemudian baru dilakukan proses steganografi agar lebih maksimal dalam mengamankan dan menjaga kerahasiaan. Steganografi membutuhkan dua properti, yaitu data dan wadah penampung data. wadah penampung yang umumnya digunakan berupa teks, suara, gambar, atau video. Sedangkan data yang disembunyikan dapat berupa teks, gambar, atau data yang lainnya.</p>
 
