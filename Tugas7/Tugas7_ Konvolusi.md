@@ -83,4 +83,13 @@ Solusi untuk masalah ini adalah :
 
 <P align="justify">&nbsp &nbsp &nbsp Dapat dilihat bahwa operasi konvolusi merupakan komputasi pada area lokal, karena komputasi untuk suatu piksel pada citra keluaran melibatkan piksel-piksel tetangga pada citra masukannya.</p>
 
+<h2 align="center">PENERAPAN PADA OCTAVE</h2>
+
+<p align = "center"><img width='500'; src="foto/12.PNG"></p><br>
+<p align = "center"><img width='500'; src="foto/13.PNG"></p><br><br>
+
+<h4 align="center">OUTPUT</h4>
+<p align = "center"><img width='500'; src="foto/14.PNG"></p><br>
+
+
 Sumber Ulasan : [klik untuk mengunjungi website yang saya gunakan sebagai ulasan](http://research-dashboard.binus.ac.id/uploads/paper/document/publication/Journal/MatsTat/Vol.%2012%20No.%202%20Juli%202012/01_Wikaria%20Gazali.pdf)
